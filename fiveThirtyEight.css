@@ -1,0 +1,35 @@
+html body {
+    background: #eeeeee;
+  }
+
+#lede,
+div.map-row,
+div.fivey-wrap.left.podcast.peek,
+div.fivey-wrap.left.peek.jar.bottom,
+div.fivey-text.right.peek.calculator.bottom,
+div.fivey.right.peek.calculator.bottom,
+div.fivey.left.peek.professor.ec-margins,
+div.fivey-text.left.peek.professor.ec-margins,
+div.fivey-text.left.peek.shrugging,
+div.fivey.left.peek.shrugging,
+div.fivey.right.peek.foam-finger,
+div.fivey-text.right.peek.foam-finger,
+div.fivey.right.peek.star-struck.narrow,
+div.fivey-text.right.peek.star-struck.narrow,
+div.fivey-text.flag.national-link.center,
+div.fivey.flag.national-link.center {
+  display: none;
+}
+
+.container,
+.module,
+.page-body {
+  width : 100%;
+  max-width: 1080px;
+}
+
+div.module {
+  box-shadow: none;
+  border: solid 1px #dcdcdc;
+  background-color: #fff;
+}
